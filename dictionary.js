@@ -3,7 +3,7 @@ var Page 		=
 	"main":
 	{
 		//首尾导航栏翻译
-		,"#lb a:contains('Overview')"		:"概　　览"
+		"#lb a:contains('Overview')"		:"概　　览"
 		,"#lb a:contains('My Stats')"		:"统　　计"
 		,"#lb a:contains('My Settings')"	:"设　　置"
 		,"#lb a:contains('Hentai@Home')"	:"Hentai@Home"
