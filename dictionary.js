@@ -33,7 +33,7 @@ var Page 		=
 		,"ReplaceMode":
 		[
 			//以图找图
-			,["html","#searchbox p:contains('a new search to alter this.')"
+			["html","#searchbox p:contains('a new search to alter this.')"
 				,"Similarity Scan was "
 				,"相似度搜索已"]
 			,["html","#searchbox p:contains('a new search to alter this.')"
